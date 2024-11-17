@@ -23,15 +23,15 @@ This is a simple Flask-based notes application that allows users to create, read
 Before running this application, make sure you have the following installed on your local machine:
 
 - Docker
-- Python 3.x
+- Python 3.9
 - SQLite3
 
 ### Installation
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/flask-notes-app.git
-   cd flask-notes-app
+   git clone https://github.com/ThisIsFarhan/Flask-Notes-App.git
+   cd Flask-Notes-App
    ```
 2. **Create the docker image**
    ```bash
